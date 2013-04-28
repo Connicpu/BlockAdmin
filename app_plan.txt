@@ -1,0 +1,21 @@
+Main concepts:
+
+Pages
+- Header
+- Tabs
+  - Header
+  - Controls
+    - Header
+    - Controls
+      - Type
+        - Text
+          - Header (optional)
+          - Value
+        - Text input
+          - Header (optional)
+          - Initial value (optional)
+          - Endpoint for sending e.g. "PUT:/root/update#motd" or "POST:/root/broadcast#message"
+          - Send caption
+        - Log feed
+          - Header (optional)
+          - Websocket Channel

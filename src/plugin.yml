@@ -1,0 +1,4 @@
+name: BlockAdmin
+description: Modular admin panel for remote control of your server
+main: net.connorcpu.blockadmin.BlockAdmin
+version: 1.0
